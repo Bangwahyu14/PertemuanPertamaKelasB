@@ -12,13 +12,13 @@ int main()
 	// display 'Luasnya adalah = ' + nLuas
 
 	int nPanjang, nLebar, nLuas;
-	cout << "Masukan Panjang = ";
+	cout << "Masukan Panjang =";
 	cin >> nPanjang;
 	cout << "Masukan Lebar = ";
 	cin >> nLebar;
 	nLuas = nPanjang * nLebar;
 	cout << "Luasnya adalah " << nLuas << endl;
 
-	sytem("pause");
+	("pause");
 
 }//end
